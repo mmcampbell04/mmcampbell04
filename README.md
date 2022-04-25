@@ -1,19 +1,21 @@
 ### I'm Meghan 👋
 
 
-A self-taught Web Developer making the (early-30s...) tranistion from copy and grant writing into Frontend Development. 
+A self-taught Web Developer making the (early-30s...) transition from copy and grant writing into Frontend Development. 
 
 I like bringing engaging and accessible designs to life with HTML, SCSS, Javascript & React. 
 
 Originally from Montreal, Canada I've spent nearly 10 years in the UK. Currently living in East London but I'm open to re-locating back to Edinburgh/Glasgow. 
 
-🌱 I’m learning Redux/React and React testing
+- 🔭 I’m currently working on an Interval Timer so I can design my own FitnessBlender-esque workouts!
 
-💬 Ask me about CSS illustrations & animations 
+- 🌱 I’m currently learning Redux/React and React testing
 
-📫 How to reach me: meghan.mccall.campbell@gmail.com 
+- 💬 Ask me about CSS illustrations & animations 
 
-😄 Pronouns: she/her
+- 📫 How to reach me: meghan.mccall.campbell@gmail.com 
+
+- 😄 Pronouns: she/her
 
 <!--
 **mmcampbell04/mmcampbell04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
